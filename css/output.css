@@ -837,6 +837,11 @@ video {
     --tw-text-opacity: 1;
     color: rgb(29 78 216 / var(--tw-text-opacity, 1));
   }
+
+  .md\:hover\:text-\[\#cc9900\]:hover {
+    --tw-text-opacity: 1;
+    color: rgb(204 153 0 / var(--tw-text-opacity, 1));
+  }
 }
 
 .rtl\:space-x-reverse:where([dir="rtl"], [dir="rtl"] *) > :not([hidden]) ~ :not([hidden]) {
